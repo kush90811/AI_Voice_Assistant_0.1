@@ -8,19 +8,22 @@ The goal of this version is to learn how speech-to-text, logic, and text-to-spee
 
 ✨ Features (v0.1)
 
-🎤Converts speech → text (using SpeechRecognition)
+1. 🎤Converts speech → text (using SpeechRecognition)
 
-Speaks responses (using pyttsx3)
+2. Speaks responses (using pyttsx3)
 
-Answers “what is the time”
+3. Answers “what is the time”
 
-Repeats what the user says
+4. Repeats what the user says
 
-Works with virtual microphone (WO Mic)
+5. Works with virtual microphone (WO Mic)
 
 💻Tech Used
 
-Python
-SpeechRecognition
-PyAudio
-Pyttsx3
+1. Python
+
+2. SpeechRecognition
+
+3. PyAudio
+
+4. Pyttsx3
